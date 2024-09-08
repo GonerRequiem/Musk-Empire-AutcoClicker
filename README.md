@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Musk Empire AutoClicker
+[Download Now](https://github.com/GonerRequiem/Musk-Empire-AutcoClicker/releases/tag/1)
+
+
 
 ![vs](https://github.com/user-attachments/assets/2d34c258-7c96-458c-9267-ebd0f559b3eb)
 
